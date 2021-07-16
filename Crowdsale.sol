@@ -9,7 +9,6 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 
 // Inherit the crowdsale contracts
 contract PupperCoinSale is Crowdsale, MintedCrowdsale, CappedCrowdsale, TimedCrowdsale, RefundablePostDeliveryCrowdsale {
-
     constructor(
         // Fill in the constructor parameters!
         uint rate, 
@@ -32,6 +31,13 @@ contract PupperCoinSale is Crowdsale, MintedCrowdsale, CappedCrowdsale, TimedCro
 }
 
 contract PupperCoinSaleDeployer {
+    
+    // uint fakenow = now;
+    
+    // // fastforward test function 
+    // function fastforward() public {
+    // fakenow += 100 days;
+    // }
 
     address public token_sale_address;
     address public token_address;
