@@ -90,7 +90,7 @@ Deploy PupperCoinSale
 
 Purchase Token
 
-![Purchase Token](Images/Kovan-Purchase-Coins.png)
+![Purchase Token](Images/Kovan-Purchase-coins.png)
 
 ![Purchase Token](Images/Kovan-Purchase.png)
 
