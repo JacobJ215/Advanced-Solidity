@@ -92,11 +92,11 @@ Purchase Token
 
 ![Purchase Token](Images/Kovan-Purchase-Coins.png)
 
-![Purchase Token](Images/Kovan-MetaMask-Purchase.png)
+![Purchase Token](Images/Kovan-Purchase.png)
 
 Confirm Transaction on Kovan Etherscan
 
-![Confirm Etherscan](Images/Transcation-Confirmation.png)
+![Confirm Etherscan](Images/Transaction-Confirmation.png)
 
 Check Balance
 
@@ -111,4 +111,4 @@ Check wei raised
 
 ![Add Token](Images/AddToken.png)
 
-![Token](Images/MetaMask-Token.png)
+![Token](Images/Token.png)
